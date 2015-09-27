@@ -1,3 +1,3 @@
 # Bitcoins-Lottery
-Bitcoins Lottery Repo 
-read me 
+
+GitHub repo for Bitcoins-Lottery code 
